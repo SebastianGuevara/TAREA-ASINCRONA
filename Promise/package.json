@@ -1,0 +1,12 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "Tarea asincrona",
+  "main": "HojaDeVida.ts",
+  "scripts": {
+    "start": "node HojadDeVida.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
